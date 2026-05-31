@@ -1,2 +1,8 @@
 # TP_HASKELL_CHEFF
-Repositorio para subir el tp2 de pdp 
+aqui subo el tp Haskellcheff
+
+## Alumno:
+#### Juan Pedro Lopez Sanchez
+
+## Comisión: 
+#### K2001
